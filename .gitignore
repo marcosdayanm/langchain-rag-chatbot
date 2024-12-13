@@ -166,3 +166,5 @@ cython_debug/
 .DS_Store
 
 vertexai-service-account.json 
+rag_app.db
+chroma_db/
